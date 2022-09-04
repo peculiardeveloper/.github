@@ -1,2 +1,1 @@
  
-![Peculiar Programmer](https://scontent.fmnl13-2.fna.fbcdn.net/v/t1.6435-9/181595398_267814361722283_3380872846293611039_n.jpg?stp=dst-jpg_p960x960&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFwO4YXsKhXCfvMqZBUBtxyFmUtChrnbBgWZS0KGudsGOZ5qNczCGcMgLm60Y929gPER3QJerc-zcelRRuujzRX&_nc_ohc=JWATZfEtYSwAX8q4k3L&_nc_ht=scontent.fmnl13-2.fna&oh=00_AT9tpWWJvvLohvK_hYu3LoOBtKnRbtiFxEVIfn1AGh0UTQ&oe=62F1AF44)
