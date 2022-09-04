@@ -1,4 +1,3 @@
- 
 Peculiar Programmer Organization
 
 A Non Profitable Organization that:
