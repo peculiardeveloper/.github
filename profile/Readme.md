@@ -18,3 +18,12 @@
 - etc
 
 
+# Target Technology and Languages
+- Python
+- Javascript
+- Java
+- C/C++
+- PHP
+- HTML,CSSS
+- Ruby
+- etc
