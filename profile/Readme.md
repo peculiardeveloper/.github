@@ -1,6 +1,6 @@
 Peculiar Organization
 
-A Non Profitable IT Organization that:
+An Open Source Organization that:
 - Take Programming and Coding as an Art.
 - Promote Collaborative Learning 
 - Respect Individual Member Skills and Experiences
