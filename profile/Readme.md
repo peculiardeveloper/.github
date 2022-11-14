@@ -1,5 +1,7 @@
-Peculiar Programmer Organization
+Peculiar Organization
 
-A Non Profitable Organization that:
-- Take Programming as kind of Art.
-- Build and create tools, project templates, libraries, API and Code Snippets.
+A Non Profitable IT Organization that:
+- Take Programming and Coding as an Art.
+- Promote Collaborative Learning 
+- Respect Individual Member Skills and Experiences
+- Open for Creative and Techno Mindset Individuals
